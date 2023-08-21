@@ -2,6 +2,11 @@
 
 Inatel Practical Project Evaluation (Java Developers)
 
+### 📝 Test description:
+  ➡️ https://github.com/erikflima/Inatel-Test-Game-Manager/blob/main/documentation-files/Descritivo%20do%20teste.pdf
+
+---
+
 ### 💻 Technologies
 
 #### ✅ Technologies used in the project:
